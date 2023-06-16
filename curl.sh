@@ -5,6 +5,3 @@ url="http://mirror.filearena.net/pub/speed/SpeedTest_16MB.dat?_ga=2.103161856.14
 curl ${url} -o TestFile
 
 #curl -I ${url}
-echo hello world
-echo goodbye
-hi
