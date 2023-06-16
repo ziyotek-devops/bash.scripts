@@ -7,3 +7,4 @@ curl ${url} -o TestFile
 #curl -I ${url}
 echo hello world
 echo goodbye
+hi
